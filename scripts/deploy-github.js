@@ -1,6 +1,5 @@
 const ghpages = require('gh-pages')
 
-// replace with your repo url
 ghpages.publish(
     'public',
     {
@@ -8,6 +7,6 @@ ghpages.publish(
         repo: 'git@github.com:Zifius/Zifius.github.io.git',
     },
     () => {
-        console.info('Deploy Complete!')
+        console.info('\x1b[32m','Deploy Complete!')
     }
 )
