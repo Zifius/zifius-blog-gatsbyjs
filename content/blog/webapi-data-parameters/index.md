@@ -1,6 +1,7 @@
 ---
 title: Web API Data Parameters
 date: "2019-04-28T21:49:23+01:00"
+description: This post explains inner working of Web API Data Parameters and how to add a custom parameter
 ---
 
 While using Magento 2 checkout API you probably noticed in [webapi.xml](https://github.com/magento/magento2/blob/2.3/app/code/Magento/Checkout/etc/webapi.xml#L26) nodes like this:

@@ -1,7 +1,7 @@
 ---
 title: MageUnConference 2017 Experience
-date: "2017-04-16T21:35:23+00:00"
-description: MageUnConference 2017 Experience
+date: "2017-04-16T21:35:23+01:00"
+description: My reflections about Magento UnConference 2017 in Cologne
 ---
 
 I [posted on Twitter](https://twitter.com/Zifius/status/839495282094129154) that I want to start blogging, but that took a while to actually happen, so... 
