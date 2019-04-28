@@ -38,11 +38,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Blog by <strong>{author}</strong> who works as Technical Architect at Magento (an Adobe company)
+                Professional Services
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Follow him Twitter
               </a>
             </p>
           </div>
