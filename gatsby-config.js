@@ -3,7 +3,7 @@ module.exports = {
     title: `Random thoughts on development and more`,
     author: `Alexander Turiak`,
     description: `Alexander Turiak, random thoughts on development and more`,
-    siteUrl: ``,
+    siteUrl: `http://zifius.github.io`,
     social: {
       twitter: `Zifius`,
     },
