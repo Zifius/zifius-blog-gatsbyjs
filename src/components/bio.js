@@ -40,7 +40,6 @@ function Bio() {
             <p>
               Blog by <strong>{author}</strong>, Technical Architect at Magento (an Adobe company)
                 Professional Services
-              {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow him on Twitter
               </a>
