@@ -1,6 +1,6 @@
 ---
 title: Web API Data Parameters
-date: "2019-04-28T21:49:23+01:00"
+date: "2019-04-29T19:46:23+01:00"
 description: This post explains inner working of Web API Data Parameters and how to add a custom parameter
 ---
 
